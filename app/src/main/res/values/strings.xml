@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="log_name">name</string>
+    <string name="log_password">password</string>
+    <string name="log_email">e-mail</string>
+
+
+    <string name="tv_find_yur_wine">find your wine in few steps</string>
+    <string name="btnReg">Register</string>
+    <string name="btnSingIn">Sing in</string>
+    <string name="btnUWR">use without registration</string>
+    <string name="tv_create_new_acc">create an account and collect wine</string>
+    <string name="btnCreate">create account</string>
+    <string name="tv_policy">by registration process, you accept our privacy policy and terms of service</string>
+    <string name="tv_welcome_back">Welcome back you’ve been missed!</string>
 </resources>
